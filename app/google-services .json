@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545996522760",
+    "project_id": "vpay-d22a7",
+    "storage_bucket": "vpay-d22a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545996522760:android:28befec7e167d6ae9f58bd",
+        "android_client_info": {
+          "package_name": "com.valentine.vpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545996522760-ajh71dv15bem68qeo0a0ehbb5l1nq5vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSav0yNpRvuVy-9vGAikjQjw8ZPI-jr2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545996522760-ajh71dv15bem68qeo0a0ehbb5l1nq5vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

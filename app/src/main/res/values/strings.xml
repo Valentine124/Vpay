@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Vpay</string>
+    <string name="password_text">Password</string>
+    <string name="log_in_text">Log in</string>
+    <string name="phone_text">Phone</string>
+    <string name="sign_up_to_vpay_text">Sign up to Vpay</string>
+    <string name="vpay_image">Vpay image</string>
+    <string name="sign_in_to_vpay_text">Sign in to Vpay</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="don_t_have_an_account_text">Don\'t have an account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="balance_text">Balance : #</string>
+    <string name="account_no_text">Account No :</string>
+    <string name="history_text">History</string>
+    <string name="see_all">See all...</string>
+    <string name="fund">Fund</string>
+    <string name="transfer">Transfer</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="home_menu">Home</string>
+    <string name="transactions_menu">Transactions</string>
+    <string name="history_menu">History</string>
+    <string name="fund_account">Fund Account</string>
+    <string name="withdraw_text">Withdraw</string>
+    <string name="amount_text">Amount</string>
+    <string name="account">Account</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_item_text">Your transaction history will be displayed here.</string>
+    <string name="text_no_item">Transactions list will be displayed here.</string>
+    <string name="transfer_text">Transfer</string>
+    <string name="receiver_account">Receiver Account</string>
+    <string name="have_an_account">Have an account?</string>
+</resources>
